@@ -19,7 +19,7 @@ In your project root folder
 2. In your Pimple container configuration, register the WhoopsServiceProvider:
 
 ```php
-$container->register(new WhoopsServiceProvider);
+$container->register(new \WhoopsPimple\WhoopsServiceProvider);
 ```
 
 -----
