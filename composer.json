@@ -13,7 +13,7 @@
     "require": {
         "filp/whoops": "^2.0",
         "pimple/pimple": "^3.0",
-        "symfony/http-kernel": "4.4.50"
+        "symfony/http-kernel": "4.4.51"
     },
     "autoload": {
         "psr-4": {
